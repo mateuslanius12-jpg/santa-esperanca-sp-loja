@@ -5,7 +5,7 @@
 const SITE = {
   nome: 'SANTA ESPERANÇA SP',          // aparece no topo e no título
   slogan: 'Loja oficial',              // frase pequena acima do nome
-  discord: 'https://discord.gg/SEU-CONVITE', // link de convite do Discord
+  discord: 'https://discord.gg/pkJzJ7eTWu', // link de convite do Discord
   loja: '',                            // link da sua loja (Tebex). Vazio = botão leva ao Discord
   rodape: '© Santa Esperança SP. Todos os direitos reservados.',
 };
